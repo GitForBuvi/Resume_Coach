@@ -1,0 +1,10 @@
+# 1. Never upload secret passwords or API keys
+.env
+
+# 2. Never upload virtual environments / libraries
+venv/
+.venv/
+
+# 3. Never upload temporary Python cache files
+__pycache__/
+*.pyc
