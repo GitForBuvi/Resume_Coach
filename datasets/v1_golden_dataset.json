@@ -1,0 +1,32 @@
+[
+  {
+    "test_id": "test_01_strong_fit",
+    "description": "Senior Python developer applying for Senior Backend role",
+    "resume_text": "Senior Software Engineer with 6 years experience. Expert in Python, FastAPI, PostgreSQL, Docker, and AWS. Built scalable microservices handling 2M requests/day. Designed relational databases and optimized slow queries. Automated deployment pipelines.",
+    "job_description": "We are seeking a Senior Backend Engineer proficient in Python, PostgreSQL, Docker, and AWS. Responsibilities include building microservices, database schema design, and cloud container orchestration.",
+    "expected_min_score": 75,
+    "expected_max_score": 100,
+    "critical_skills_to_find": ["Python", "PostgreSQL", "Docker", "AWS"],
+    "expected_missing_skills": []
+  },
+  {
+    "test_id": "test_02_enterprise_pivot",
+    "description": "SAP ABAP / SQL developer pivoting to Modern Cloud Data Engineer",
+    "resume_text": "Senior SAP ABAP Developer with 8 years experience in enterprise ERP systems. Proficient in SQL, database optimization, IDocs, RFC interfaces, and custom report development. Strong background in data modeling and business logic.",
+    "job_description": "Looking for a Cloud Data Engineer to build big data pipelines. Required: Python, Apache Airflow, PySpark, and cloud data warehousing (BigQuery or Snowflake).",
+    "expected_min_score": 30,
+    "expected_max_score": 60,
+    "critical_skills_to_find": ["SQL"],
+    "expected_missing_skills": ["Python", "Apache Airflow", "PySpark"]
+  },
+  {
+    "test_id": "test_03_total_mismatch",
+    "description": "Marketing specialist applying for DevOps / Infrastructure role",
+    "resume_text": "Digital Marketing Manager with 5 years experience managing Google Ads, Facebook campaigns, SEO keyword research, and copywriting. Grew organic traffic by 45%.",
+    "job_description": "Seeking a DevOps Infrastructure Engineer. Must have deep experience with Kubernetes, Terraform, Linux kernel tuning, and CI/CD pipelines.",
+    "expected_min_score": 0,
+    "expected_max_score": 25,
+    "critical_skills_to_find": [],
+    "expected_missing_skills": ["Kubernetes", "Terraform", "Linux"]
+  }
+]

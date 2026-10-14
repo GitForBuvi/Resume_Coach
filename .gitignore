@@ -8,3 +8,7 @@ venv/
 # 3. Never upload temporary Python cache files
 __pycache__/
 *.pyc
+
+git add .# 4. MLflow local database & tracking runs
+  mlflow.db
+  mlruns/

@@ -1,0 +1,13 @@
+# Prompt Injection Signatures & Jailbreak Triggers
+# Add new patterns below (lines starting with # or blank lines are ignored)
+
+ignore\s+(all\s+)?previous\s+instructions
+system\s+(prompt\s+)?override
+disregard\s+(all\s+)?(prior|above)\s+rules
+you\s+are\s+now\s+(a|an|in\s+developer\s+mode)
+new\s+instructions\s*:
+dan\s+mode
+bypass\s+all\s+filters
+reveal\s+your\s+(initial|system)\s+prompt
+do\s+anything\s+now
+roleplay\s+as\s+an\s+unrestricted\s+ai
