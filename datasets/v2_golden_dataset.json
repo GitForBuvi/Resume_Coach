@@ -1,0 +1,247 @@
+[
+  {
+    "test_id": "test_01_sr_python_backend",
+    "description": "Senior Python developer applying for Senior Backend role",
+    "resume_text": "Senior Software Engineer with 6 years experience in Python, FastAPI, PostgreSQL, Docker, and AWS. Built scalable microservices handling 2M requests/day. Optimized database queries and automated CI/CD pipelines.",
+    "job_description": "Seeking Senior Backend Engineer with Python, FastAPI, PostgreSQL, Docker, and AWS experience. Responsibilities: microservice architecture, API design, and container orchestration.",
+    "expected_min_score": 75,
+    "expected_max_score": 100,
+    "expected_missing_skills": []
+  },
+  {
+    "test_id": "test_02_sr_frontend_react",
+    "description": "Senior React developer applying for Senior UI Engineer",
+    "resume_text": "Lead Frontend Engineer with 7 years experience in React, TypeScript, Redux, Next.js, and CSS/Tailwind. Architected responsive dashboards and reduced bundle sizes by 35%.",
+    "job_description": "We need a Senior React Developer proficient in TypeScript, Next.js, modern state management, and web performance optimization.",
+    "expected_min_score": 75,
+    "expected_max_score": 100,
+    "expected_missing_skills": []
+  },
+  {
+    "test_id": "test_03_devops_sre",
+    "description": "DevOps Engineer applying for Site Reliability Engineer (SRE)",
+    "resume_text": "DevOps Specialist with 5 years experience in Kubernetes, Terraform, AWS, Prometheus, Grafana, and CI/CD pipelines. Maintained 99.99% uptime across production clusters.",
+    "job_description": "Looking for an SRE with strong Kubernetes, Terraform, AWS infrastructure, and observability tooling (Prometheus/Grafana).",
+    "expected_min_score": 75,
+    "expected_max_score": 100,
+    "expected_missing_skills": []
+  },
+  {
+    "test_id": "test_04_data_analyst_bi",
+    "description": "Data Analyst applying for Senior BI Analyst",
+    "resume_text": "Data Analyst with 4 years building Power BI and Tableau dashboards. Proficient in SQL, Python data manipulation (pandas), and data warehousing concepts.",
+    "job_description": "Required: Senior BI Analyst with expertise in SQL, Tableau, Power BI, data storytelling, and stakeholder reporting.",
+    "expected_min_score": 60,
+    "expected_max_score": 90,
+    "expected_missing_skills": []
+  },
+  {
+    "test_id": "test_05_cybersecurity_secops",
+    "description": "Security Analyst applying for Cyber Security Operations Lead",
+    "resume_text": "Security Operations Analyst with 5 years experience in SIEM (Splunk), threat hunting, vulnerability management, firewalls, and incident response.",
+    "job_description": "Seeking Security Operations Specialist. Required: Splunk SIEM, threat monitoring, incident response protocols, and security compliance.",
+    "expected_min_score": 70,
+    "expected_max_score": 100,
+    "expected_missing_skills": []
+  },
+  {
+    "test_id": "test_06_sap_abap_to_cloud_data",
+    "description": "SAP ABAP / SQL developer pivoting to Modern Cloud Data Engineer",
+    "resume_text": "Senior SAP ABAP Developer with 8 years experience in enterprise ERP systems. Proficient in SQL, database optimization, IDocs, RFC interfaces, and custom report development.",
+    "job_description": "Looking for a Cloud Data Engineer to build big data pipelines. Required: Python, Apache Airflow, PySpark, and cloud data warehousing (Snowflake).",
+    "expected_min_score": 10,
+    "expected_max_score": 30,
+    "expected_missing_skills": [
+      "Python",
+      "Apache Airflow",
+      "PySpark",
+      "Snowflake"
+    ]
+  },
+  {
+    "test_id": "test_07_oracle_dba_to_cloud_architect",
+    "description": "On-prem Oracle DBA applying for Cloud Database Architect",
+    "resume_text": "Oracle DBA with 10 years experience managing high-availability Oracle RAC, PL/SQL stored procedures, backups, and disaster recovery.",
+    "job_description": "Seeking Cloud Database Architect with expertise in AWS RDS, Aurora PostgreSQL, DynamoDB NoSQL, and Terraform automation.",
+    "expected_min_score": 10,
+    "expected_max_score": 35,
+    "expected_missing_skills": [
+      "AWS RDS",
+      "Aurora",
+      "DynamoDB",
+      "Terraform"
+    ]
+  },
+  {
+    "test_id": "test_08_qa_automation_to_devops",
+    "description": "QA Automation Engineer pivoting to Junior DevOps",
+    "resume_text": "SDET with 4 years experience in Selenium, Python test scripts, Jenkins CI pipelines, and Git. Focused on automated regression testing.",
+    "job_description": "Junior DevOps Engineer: Must know Docker, Kubernetes, Linux system administration, and infrastructure as code (Terraform).",
+    "expected_min_score": 20,
+    "expected_max_score": 45,
+    "expected_missing_skills": [
+      "Kubernetes",
+      "Linux system administration",
+      "Terraform"
+    ]
+  },
+  {
+    "test_id": "test_09_sysadmin_to_cloud_engineer",
+    "description": "Windows System Admin pivoting to Azure Cloud Engineer",
+    "resume_text": "Systems Administrator managing Active Directory, Windows Server 2019, VMware vSphere, and network cabling across 3 office locations.",
+    "job_description": "Azure Cloud Engineer needed. Required: Microsoft Azure, ARM templates/Bicep, Entra ID, and PowerShell cloud scripting.",
+    "expected_min_score": 10,
+    "expected_max_score": 35,
+    "expected_missing_skills": [
+      "Azure",
+      "ARM templates",
+      "Bicep"
+    ]
+  },
+  {
+    "test_id": "test_10_ios_swift_to_flutter",
+    "description": "Native iOS developer applying for Cross-Platform Mobile Role",
+    "resume_text": "Native iOS Developer with 5 years experience in Swift, SwiftUI, Xcode, UIKit, and App Store releases.",
+    "job_description": "Mobile Developer: Required experience in Flutter, Dart, cross-platform Android/iOS deployment, and GraphQL APIs.",
+    "expected_min_score": 10,
+    "expected_max_score": 30,
+    "expected_missing_skills": [
+      "Flutter",
+      "Dart",
+      "GraphQL"
+    ]
+  },
+  {
+    "test_id": "test_11_sap_fiori_to_react",
+    "description": "SAP Fiori / UI5 developer applying for Senior React Web Developer",
+    "resume_text": "SAP UI5 / Fiori developer with 6 years experience in JavaScript, OData services, SAP Gateway, and XML views.",
+    "job_description": "Senior React Developer required. Deep expertise in React hooks, TypeScript, Redux Toolkit, and Tailwind CSS.",
+    "expected_min_score": 10,
+    "expected_max_score": 30,
+    "expected_missing_skills": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "Tailwind"
+    ]
+  },
+  {
+    "test_id": "test_12_junior_dev_to_tech_lead",
+    "description": "Junior developer with 1 year experience applying for Lead Architect",
+    "resume_text": "Junior Web Developer with 1 year experience in HTML, CSS, JavaScript, and basic Python scripts. Built personal portfolio and small company website.",
+    "job_description": "Principal Technical Architect: Requires 8+ years leading engineering teams, distributed systems architecture, microservices, and high-load performance.",
+    "expected_min_score": 0,
+    "expected_max_score": 15,
+    "expected_missing_skills": [
+      "Distributed systems",
+      "Architecture",
+      "Engineering leadership"
+    ]
+  },
+  {
+    "test_id": "test_13_scrum_master_to_product_manager",
+    "description": "Scrum Master applying for Technical Product Manager",
+    "resume_text": "Scrum Master with 4 years running sprint ceremonies, Jira backlogs, and agile coaching for 2 software development squads.",
+    "job_description": "Technical Product Manager: Must have experience in roadmap ownership, market research, SQL user analysis, and API technical specs.",
+    "expected_min_score": 10,
+    "expected_max_score": 35,
+    "expected_missing_skills": [
+      "Market research",
+      "SQL user analysis",
+      "API technical specs"
+    ]
+  },
+  {
+    "test_id": "test_14_financial_analyst_to_fintech_dev",
+    "description": "Excel Financial Analyst applying for FinTech Quantitative Developer",
+    "resume_text": "Financial Analyst with 4 years in Excel modeling, balance sheet variance analysis, and Bloomberg terminal research.",
+    "job_description": "Quantitative Developer: Required C++, Python algorithms, algorithmic trading strategies, and low-latency market data processing.",
+    "expected_min_score": 5,
+    "expected_max_score": 25,
+    "expected_missing_skills": [
+      "C++",
+      "Python algorithms",
+      "Algorithmic trading"
+    ]
+  },
+  {
+    "test_id": "test_15_healthcare_admin_to_data_scientist",
+    "description": "Healthcare Clinic Admin applying for Healthcare Data Scientist",
+    "resume_text": "Medical Office Coordinator with 5 years managing electronic health records (Epic), patient scheduling, and medical billing compliance.",
+    "job_description": "Healthcare Data Scientist: Requires Python, machine learning (scikit-learn), statistical modeling, and clinical trial data analytics.",
+    "expected_min_score": 5,
+    "expected_max_score": 25,
+    "expected_missing_skills": [
+      "Python",
+      "Machine learning",
+      "Statistical modeling"
+    ]
+  },
+  {
+    "test_id": "test_16_marketing_to_devops",
+    "description": "Digital Marketing Manager applying for DevOps Infrastructure",
+    "resume_text": "Marketing Manager with 5 years managing Google Ads, Facebook campaigns, SEO keyword research, and copywriting. Grew organic traffic by 45%.",
+    "job_description": "Seeking DevOps Infrastructure Engineer. Deep experience with Kubernetes, Terraform, Linux kernel tuning, and CI/CD pipelines.",
+    "expected_min_score": 0,
+    "expected_max_score": 20,
+    "expected_missing_skills": [
+      "Kubernetes",
+      "Terraform",
+      "Linux"
+    ]
+  },
+  {
+    "test_id": "test_17_graphic_designer_to_ml_engineer",
+    "description": "Graphic Designer applying for Machine Learning Engineer",
+    "resume_text": "Visual Designer with 6 years experience in Adobe Photoshop, Illustrator, Figma, branding, and typography design.",
+    "job_description": "Machine Learning Engineer: PyTorch, deep learning, GPU cluster training, transformer architectures, and CUDA optimization.",
+    "expected_min_score": 0,
+    "expected_max_score": 20,
+    "expected_missing_skills": [
+      "PyTorch",
+      "Deep learning",
+      "CUDA"
+    ]
+  },
+  {
+    "test_id": "test_18_retail_sales_to_backend_eng",
+    "description": "Retail Store Associate applying for Cloud Backend Engineer",
+    "resume_text": "Retail Sales Associate with 3 years customer service, inventory restocking, cash register operations, and store merchandising.",
+    "job_description": "Cloud Backend Developer: Go (Golang), distributed databases, microservices, gRPC, and Docker containerization.",
+    "expected_min_score": 0,
+    "expected_max_score": 20,
+    "expected_missing_skills": [
+      "Go",
+      "Distributed databases",
+      "gRPC",
+      "Docker"
+    ]
+  },
+  {
+    "test_id": "test_19_legal_paralegal_to_cloud_dba",
+    "description": "Legal Paralegal applying for Cloud Database Administrator",
+    "resume_text": "Paralegal with 4 years preparing litigation briefs, legal contract review, court docket filing, and legal research in LexisNexis.",
+    "job_description": "Cloud DBA: PostgreSQL replication, query execution plan tuning, AWS Aurora, and automated failover architecture.",
+    "expected_min_score": 0,
+    "expected_max_score": 20,
+    "expected_missing_skills": [
+      "PostgreSQL",
+      "Query execution plan tuning",
+      "AWS Aurora"
+    ]
+  },
+  {
+    "test_id": "test_20_hr_recruiter_to_embedded_c",
+    "description": "HR Recruiter applying for Embedded Firmware Engineer",
+    "resume_text": "Technical Recruiter with 4 years sourcing candidates on LinkedIn, conducting screening interviews, and managing applicant tracking systems.",
+    "job_description": "Embedded Systems Engineer: Microcontroller programming in C/C++, RTOS, SPI/I2C communication protocols, and oscilloscope hardware debugging.",
+    "expected_min_score": 0,
+    "expected_max_score": 20,
+    "expected_missing_skills": [
+      "C/C++",
+      "RTOS",
+      "SPI/I2C",
+      "Oscilloscope"
+    ]
+  }
+]

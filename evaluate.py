@@ -133,6 +133,13 @@ def run_evaluation(
         print("=" * 65)
         print("All metrics logged to MLflow successfully!\n")
 
+        return {
+            "score_accuracy_pct": score_accuracy_pct,
+            "missing_skills_recall_pct": skill_recall_pct,
+            "star_quantification_pct": star_quant_pct,
+            "avg_latency_seconds": avg_latency,
+            "test_cases_count": len(dataset)
+        }
 
 if __name__ == "__main__":
     run_evaluation(prompt_version="v1", dataset_version="v1")
