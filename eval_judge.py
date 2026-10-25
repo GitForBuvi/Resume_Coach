@@ -1,3 +1,5 @@
+"""Audit coaching results with deterministic checks and an LLM quality judge."""
+
 import json
 import re
 from groq import Groq

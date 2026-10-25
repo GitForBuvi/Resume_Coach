@@ -1,3 +1,5 @@
+"""Run golden-dataset evaluations and record aggregate metrics in MLflow."""
+
 import os
 import json
 import time

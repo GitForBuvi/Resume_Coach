@@ -1,3 +1,5 @@
+"""Build tailored resume documents and plain-text coaching reports."""
+
 import io
 import re
 import docx

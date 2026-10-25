@@ -1,3 +1,5 @@
+"""Input guardrails and in-memory daily usage quotas for the coaching app."""
+
 import os
 import re
 from datetime import date

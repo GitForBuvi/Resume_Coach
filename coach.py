@@ -1,3 +1,5 @@
+"""Resume-to-job-description analysis using versioned prompts and the Groq API."""
+
 import os
 import json
 import re

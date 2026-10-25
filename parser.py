@@ -1,3 +1,5 @@
+"""Extract readable text from uploaded PDF and DOCX resumes."""
+
 import io
 from pypdf import PdfReader
 import docx

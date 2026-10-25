@@ -1,3 +1,5 @@
+"""Streamlit entry point for live resume coaching and benchmark evaluation."""
+
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
