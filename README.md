@@ -1,5 +1,11 @@
 # Resume_Coach
 
+## Submission Details
+
+- **Name:** Buvaneswari Anguchamy
+- **Uplevel Email Address:** emailbuvana@gmail.com
+- **Problem Statement:** Resume Coach
+
 Resume Coach compares a resume with a target job description (JD), identifies
 matching and missing skills, and suggests stronger experience bullets. The
 Streamlit app also provides a benchmark page for evaluating prompt versions
